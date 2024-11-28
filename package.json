@@ -1,0 +1,12 @@
+{
+  "name": "docker-api",
+  "version": "1.0.0",
+  "description": "API simples para rodar no Docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
